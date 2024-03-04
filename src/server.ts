@@ -1,7 +1,7 @@
 import express, { Application, Request, Response } from 'express';
 import { renderFile } from 'ejs';
 
-const PORT = 80;
+const PORT = 3000;
 
 const app: Application = express();
 
