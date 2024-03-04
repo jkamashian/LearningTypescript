@@ -1,0 +1,19 @@
+{
+    "compilerOptions": {
+      "target": "es6",
+      "module": "commonjs",
+      "rootDir": "./src",
+      "outDir": "./dist",
+      "esModuleInterop": true,
+      "strict": true,
+      "moduleResolution": "node",
+      "skipLibCheck": true,
+      "lib": ["es5"],
+      "removeComments": true,
+      "noEmitOnError": true // won't create js files if there is compiled error
+    },
+    "exclude": [
+      "node_modules" // this is already included by defualt
+    ]
+
+  }
