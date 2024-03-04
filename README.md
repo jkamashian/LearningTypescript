@@ -1,6 +1,7 @@
 # Learning TypeScript
 
 This project is designed to provide an introductory understanding of TypeScript and Node.js through the development and hosting of a simple resume website.
+For the time being this project is current on my aws site [thedreamstar.net](http://thedreamstar.net/)
 
 ## Project Overview
 
