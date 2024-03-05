@@ -1,7 +1,7 @@
 FROM node:21-alpine
 
 RUN mkdir /learningtypescript
-COPY package /learningtypescript
+COPY . /learningtypescript
 WORKDIR "/learningtypescript"
 RUN npm install
 RUN npm run build
